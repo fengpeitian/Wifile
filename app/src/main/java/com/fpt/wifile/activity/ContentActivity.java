@@ -27,7 +27,9 @@ import com.fpt.wifile.widget.BrowserView;
  * </pre>
  */
 public class ContentActivity extends AppCompatActivity {
+
     private ImageView iv_back;
+
     private Browser browser;
 
     @Override
